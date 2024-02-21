@@ -4,6 +4,7 @@ import Timer from "./components/Timer";
 import AsyncSetCount from "./components/AsyncSetCount";
 import WeatherFetchApi from "./components/weather-app/WeatherFetchApi";
 import Pagination from "./components/Pagination";
+import TodoListApp from "./components/TodoListApp";
 
 //  To convert rupee to dollars
 function App() {
@@ -13,7 +14,8 @@ function App() {
       <Timer />
       <AsyncSetCount />
       <WeatherFetchApi /> */}
-      <Pagination />
+      {/* <Pagination /> */}
+      <TodoListApp />
     </div>
   );
 }
