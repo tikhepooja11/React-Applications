@@ -1,4 +1,5 @@
-React Todo App
+**React Todo App**
+
 A simple and intuitive Todo App built with React JS, featuring powerful functionality for managing your tasks. This application allows you to seamlessly add, delete, and search for todos.
 
 Features -
