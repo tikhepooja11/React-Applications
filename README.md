@@ -1,5 +1,6 @@
 ReactJS Simple Projects  -
-    In this repository, I am adding simple reactjs projects which are listed below
+In this repository, I am adding simple reactjs projects which are listed below
+
     1.  Weather App - This integrates weather API's & manipulates & displays the data on UI
     2.  Currency Converter - A simple Currency Converter that allows you to convert dollars to rupees and vice versa.
     3.  Pagination - This implements client side pagination on API integration
