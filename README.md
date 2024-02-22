@@ -49,6 +49,15 @@ Usage
 Technologies Used
 1.  ReactJS
 2.  TailwindCSS
+3.  Javascript
+
+
+Snapshots - 
+![Screenshot (104)](https://github.com/tikhepooja11/React-Applications/assets/47672660/e6e2e605-8eee-45f4-b792-e98e02bea01d)
+
+![Screenshot (105)](https://github.com/tikhepooja11/React-Applications/assets/47672660/43220fa7-5052-488e-a5c3-05dd5ec5cfd2)
+
+![Screenshot (106)](https://github.com/tikhepooja11/React-Applications/assets/47672660/c6157fa3-f8dc-4d31-9d19-564c8d610c62)
 
 ------------------------------------------------------------------------------------------------------------------
 **Currency Converter**
@@ -65,6 +74,14 @@ Technologies Used
 1.  ReactJS
 2.  TailwindCSS
 3.  JavaScript
+
+Snapshots -
+![Screenshot (101)](https://github.com/tikhepooja11/React-Applications/assets/47672660/8d2e9652-7354-44c3-b9c9-cc26d2870ac0)
+
+![Screenshot (102)](https://github.com/tikhepooja11/React-Applications/assets/47672660/d463ff8d-f49f-43ac-8f36-65fd04b50888)
+
+![Screenshot (103)](https://github.com/tikhepooja11/React-Applications/assets/47672660/3237e425-02a9-498e-b04a-c61b6b293b49)
+
 ---------------------------------------------------------------------------
 **React Todo App**
 
