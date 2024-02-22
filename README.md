@@ -5,7 +5,34 @@ In this repository, I am adding simple reactjs projects which are listed below
     2.  Currency Converter - A simple Currency Converter that allows you to convert dollars to rupees and vice versa.
     3.  Pagination - This implements client side pagination on API integration
     4.  Auto-Start Timer - A minimalistic timer application built to automatically start timing when the program runs. Stop and reset functionalities are provided for user convenience.
+    5.  Todo List - A simple and intuitive Todo App built with React JS, featuring powerful functionality for managing your tasks. This application allows you to seamlessly add, delete, and search for todos.
+    
 ------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------
+**Weather-Application**
+
+Snapshots - 
+![Screenshot (97)](https://github.com/tikhepooja11/React-Applications/assets/47672660/bde8b04f-ef65-431f-8dd8-ad0e7d05feff)
+
+![Screenshot (98)](https://github.com/tikhepooja11/React-Applications/assets/47672660/b9d2eeb0-5d38-4538-8255-f9e4205b927d)
+
+![Screenshot (99)](https://github.com/tikhepooja11/React-Applications/assets/47672660/f778570d-9ea8-48f8-a05b-ed4dfa3fa470)
+
+![Screenshot (100)](https://github.com/tikhepooja11/React-Applications/assets/47672660/2f737da7-0089-4dda-a16d-554397f5461b)
+
+------------------------------------------------------------------------------------------------------------------
+**Client-side Pagination**
+
+Snapshots - 
+![Screenshot (94)](https://github.com/tikhepooja11/React-Applications/assets/47672660/ad194cb5-df52-4380-874a-9437951a89dc)
+
+![Screenshot (95)](https://github.com/tikhepooja11/React-Applications/assets/47672660/fdf793e5-7150-4e3e-86d1-e637d711f00e)
+
+![Screenshot (96)](https://github.com/tikhepooja11/React-Applications/assets/47672660/5e057944-03f7-4ba7-9dcf-771dc27e0425)
+
+------------------------------------------------------------------------------------------------------------------
+
 **Auto-Start Timer** 
 
 Features
